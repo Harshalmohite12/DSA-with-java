@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
