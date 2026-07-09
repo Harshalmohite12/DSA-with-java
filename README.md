@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0169-majority-element) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshalmohite12/DSA-with-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/Harshalmohite12/DSA-with-java/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Harshalmohite12/DSA-with-java/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
