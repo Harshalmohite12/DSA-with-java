@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0169-majority-element) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshalmohite12/DSA-with-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0067-add-binary) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshalmohite12/DSA-with-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
