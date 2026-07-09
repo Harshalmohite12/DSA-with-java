@@ -1,16 +1,17 @@
 class Solution {
 
+        static int digits(int num){
+            int count = 0;
+            while(num > 0){
+                count++;
+                num = num / 10;
+            }
+            return count;
+        }
+
         static boolean isEven(int num){
-        int temp = 0;
-        while(num > 0){
-            temp++;
-            num = num / 10;
-        }
         
-        if(temp % 2 == 0){
-            return true;
-        }
-        return false;
+        return digits(num) % 2 == 0;
     }
 
     public int findNumbers(int[] nums) {
