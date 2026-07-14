@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0169-majority-element) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshalmohite12/DSA-with-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/Harshalmohite12/DSA-with-java/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0069-sqrtx) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Harshalmohite12/DSA-with-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
